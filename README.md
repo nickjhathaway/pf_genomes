@@ -1,4 +1,6 @@
 # pf\_genomes
+Version 1.0.0 - 2025-02
+
 Repository of 13 Plasmodium falciparum reference genomes and annotation files. Genomes include Pf3D7 reference genome version 2020-09-01. Also included are the genomes from Otto et al 2018  
 
 
